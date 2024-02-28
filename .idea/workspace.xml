@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="709dec46-a233-476a-9ea6-2a18b777b488" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Part 1/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part 1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part 1/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part 1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part 1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part 1/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part 1/src/main/java/org/assignment/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part 1/src/test/java/org/assignment/AppTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Part 1" />
+  </component>
+  <component name="ProjectId" id="2czrCL4zIVRAtfWb6d9H6ertwc8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Shanika/Documents/IntelliJ_Java/Assignment/Part 1",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="AppTest.testAutonomousCar" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Assignment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.assignment.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.assignment" />
+      <option name="MAIN_CLASS_NAME" value="org.assignment.AppTest" />
+      <option name="METHOD_NAME" value="testAutonomousCar" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.AppTest.testAutonomousCar" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="709dec46-a233-476a-9ea6-2a18b777b488" name="Changes" comment="" />
+      <created>1709125125259</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1709125125259</updated>
+      <workItem from="1709125129163" duration="2091000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
